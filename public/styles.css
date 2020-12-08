@@ -20,6 +20,40 @@ h1 span {
   background: #2ec2b0;
 }
 
+.social-icons{
+  padding: 5px;
+}
+ a.twitter{
+  color:#00acee;
+}
+
+a.instagram{
+  color: black;
+}
+
+a.linkedin{
+  color: #0e76a8 ;
+}
+
+a.facebook{
+  color: #3b5998;
+}
+
+a.youtube{
+  color:#FF0000;
+}
+
+a.telegram{
+  color: #0088cc;
+}
+
+a.blog{
+  color: #fc4f08;
+}
+
+a.portfolio{
+  color:#224d22;
+}
 .dictionary {
   display: flex;
   flex-wrap: wrap;
@@ -36,6 +70,7 @@ h1 span {
   border-radius: 3px;
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05), 0 5px 20px rgba(0, 0, 0, 0.1);
   background-color: #fff;
+  
   transition: all 100ms ease-in-out;
 }
 
@@ -71,6 +106,7 @@ dt span {
 .social{
   display: block;
   margin: 20px;
+  
 }
 
 dd {
