@@ -17,28 +17,28 @@ function Card(props) {
           <img src={props.img} className="img-box"></img>
           <span>{props.name}</span>
           <div className="social">
-          <a href="https://aniket.live" className="social-icons facebook">
+          <a href={props.facebook} className="social-icons facebook">
           <FacebookIcon></FacebookIcon>
           </a>
-          <a href="https://aniket.live" className="social-icons twitter" >
+          <a href={props.twitter} className="social-icons twitter" >
           <TwitterIcon></TwitterIcon>
           </a>
-          <a href="https://aniket.live" className="social-icons instagram" >
+          <a href={props.instagram} className="social-icons instagram" >
           <InstagramIcon></InstagramIcon>
           </a>
-          <a href="https://aniket.live" className="social-icons linkedin" >
+          <a href={props.linkedin} className="social-icons linkedin" >
           <LinkedInIcon></LinkedInIcon>
           </a>
-          <a href="https://aniket.live" className="social-icons youtube" >
+          <a href={props.youtube} className="social-icons youtube" >
           <YouTubeIcon></YouTubeIcon>
           </a>
-          <a href="https://aniket.live" className="social-icons telegram" >
+          <a href={props.telegram} className="social-icons telegram" >
           <TelegramIcon></TelegramIcon>
           </a>
-          <a href="https://aniket.live" className="social-icons blog" >
+          <a href={props.blog} className="social-icons blog" >
           <BookIcon></BookIcon>
           </a>
-          <a href="https://aniket.live" className="social-icons portfolio" >
+          <a href={props.portfolio} className="social-icons portfolio" >
           <LanguageIcon></LanguageIcon>
           </a>
           

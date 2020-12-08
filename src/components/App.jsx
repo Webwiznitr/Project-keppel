@@ -9,7 +9,14 @@ function createCard(content) {
       name={content.name}
       img={content.img}
       meaning={content.descp}
-    />
+      facebook={content.facebook}
+      twitter = {content.twitter}
+      instagram = {content.instagram}
+      youtube = {content.telegram}
+      telegram = {content.telegram}
+      blog = {content.blog}
+      portfolio = {content.portfolio}
+      />
   );
 }
 
