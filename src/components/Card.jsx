@@ -17,29 +17,46 @@ function Card(props) {
           <img src={props.img} className="img-box"></img>
           <span>{props.name}</span>
           <div className="social">
+        
+          {/*Facebook*/}
           <a href={props.facebook} className="social-icons facebook">
-          <FacebookIcon></FacebookIcon>
+          {props.facebook.length>3 ? <FacebookIcon></FacebookIcon>:null}
           </a>
+
+          {/*Twitter*/}
           <a href={props.twitter} className="social-icons twitter" >
-          <TwitterIcon></TwitterIcon>
+          {props.twitter.length>2 ? <TwitterIcon></TwitterIcon>:null}
           </a>
+
+          {/*Instagram*/}
           <a href={props.instagram} className="social-icons instagram" >
-          <InstagramIcon></InstagramIcon>
+          {props.instagram.length>2 ? <InstagramIcon></InstagramIcon>:null}
           </a>
+
+          {/*LinkedIn*/}
           <a href={props.linkedin} className="social-icons linkedin" >
-          <LinkedInIcon></LinkedInIcon>
+          {props.linkedin.length>2 ? <LinkedInIcon></LinkedInIcon>:null}
           </a>
+
+          {/*Youtube*/}
           <a href={props.youtube} className="social-icons youtube" >
-          <YouTubeIcon></YouTubeIcon>
+          {props.youtube.length>2 ?<YouTubeIcon></YouTubeIcon>:null}
           </a>
-          <a href={props.telegram} className="social-icons telegram" >
-          <TelegramIcon></TelegramIcon>
+
+          {/*Telegram*/}
+          <a href={props.telegram} className="social-icons telegram">
+          {props.telegram.length>2 ?<TelegramIcon></TelegramIcon>:null}
           </a>
+
+          {/*Blog*/}
           <a href={props.blog} className="social-icons blog" >
-          <BookIcon></BookIcon>
+          {props.blog.length>2 ?<BookIcon></BookIcon>:null}
           </a>
+
+
+          {/*Portfolio*/}
           <a href={props.portfolio} className="social-icons portfolio" >
-          <LanguageIcon></LanguageIcon>
+          {props.portfolio.length>2 ?<LanguageIcon></LanguageIcon>:null}
           </a>
           
           

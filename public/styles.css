@@ -22,6 +22,10 @@ h1 span {
   background: #2ec2b0;
 }
 
+.social-hide{
+  visibility: hidden;
+}
+
 .social-icons{
   padding: 5px;
 }

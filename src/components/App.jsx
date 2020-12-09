@@ -12,7 +12,8 @@ function createCard(content) {
       facebook={content.facebook}
       twitter = {content.twitter}
       instagram = {content.instagram}
-      youtube = {content.telegram}
+      linkedin = {content.linkedin}
+      youtube = {content.youtube}
       telegram = {content.telegram}
       blog = {content.blog}
       portfolio = {content.portfolio}
