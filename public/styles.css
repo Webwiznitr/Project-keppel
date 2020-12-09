@@ -2,7 +2,7 @@ body {
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   line-height: 1.666;
-  background: rgb(145, 168, 167);
+  background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
   color: #555;
 }
 
@@ -76,12 +76,13 @@ a.portfolio{
   border-radius: 5px;
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05), 0 5px 20px rgba(0, 0, 0, 0.1);
   background-color: #fff;
-  
+  box-shadow: 4px 6px rgb(61, 53, 53);
   transition: all 100ms ease-in-out;
 }
 
 .dictionary > .term > dt {
   margin-bottom: 1rem;
+  
 }
 
 dt {
@@ -105,7 +106,7 @@ dt span {
   height: 100px;
   display: block;
   margin-left: 110px;
-  border-radius: 100px;
+  
 }
 
 
@@ -136,5 +137,10 @@ dd dl {
 
 dd dl .term {
   margin-bottom: 1rem;
+  
+}
+
+.term{
+  box-shadow: 50px 10px black;
 }
 
