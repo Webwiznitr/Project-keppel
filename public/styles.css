@@ -101,9 +101,10 @@ dt span {
 .img-box{
   width: 100px;
   height: 100px;
+  border-radius: 50%;
   display: block;
   margin-left: 110px;
-  
+  margin-bottom: 10px;;
 }
 
 
@@ -116,6 +117,7 @@ dt span {
 dd {
   font-size: 92.5%;
   margin-left: 0;
+  text-align: justify;
 }
 
 dd dt {
@@ -167,7 +169,7 @@ dd dl .term {
 	width: 40%;
 }
 
-/* The company logo */
+/* The club name */
 
 .footer-distributed h3{
 	color:  #ffffff;
@@ -303,7 +305,6 @@ dd dl .term {
 	margin-bottom: 5px;
 }
 
-/* If you don't want the footer to be responsive, remove these media queries */
 
 @media (max-width: 880px) {
 

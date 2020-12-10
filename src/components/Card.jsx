@@ -18,7 +18,7 @@ function Card(props) {
           <span>{props.name}</span>
           <div className="social">
         
-          {/*Facebook*/}
+          <center> {/*Facebook*/}
           <a href={props.facebook} className="social-icons facebook">
           {props.facebook.length>3 ? <FacebookIcon></FacebookIcon>:null}
           </a>
@@ -58,7 +58,7 @@ function Card(props) {
           <a href={props.portfolio} className="social-icons portfolio" >
           {props.portfolio.length>2 ?<LanguageIcon></LanguageIcon>:null}
           </a>
-          
+          </center>
           
           
           </div>
