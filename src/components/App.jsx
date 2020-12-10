@@ -26,7 +26,7 @@ function App() {
   return (
     <div>
       <h1>
-        <span>CLUBOPEDIA</span>
+        <header>CLUBOPEDIA</header>
       </h1>
       <dl className = "dictionary">
       {content.map(createCard)}
