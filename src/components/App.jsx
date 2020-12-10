@@ -1,6 +1,7 @@
 import React from "react";
 import content from "../content";
 import Card from "./Card";
+import Footer from "./Footer";
 
 function createCard(content) {
   return (
@@ -30,7 +31,7 @@ function App() {
       <dl className = "dictionary">
       {content.map(createCard)}
       </dl>
-      
+      <Footer/>
     </div>
   );
 }
