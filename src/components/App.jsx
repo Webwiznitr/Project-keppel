@@ -18,6 +18,8 @@ function createCard(content) {
       telegram = {content.telegram}
       blog = {content.blog}
       portfolio = {content.portfolio}
+      pname={content.pname}
+      contact={content.contact}
       />
   );
 }

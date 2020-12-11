@@ -65,6 +65,10 @@ function Card(props) {
           
         </dt>
         <dd><q><em>{props.meaning}</em></q></dd>
+        <dt><center>
+          <p style={{fontSize: "1.2rem", fontWeight: "600", color: "#00587a"}}>{props.pname}</p>
+          <p style={{marginTop: "-4%"}}>Contact - {props.contact}</p>
+        </center></dt>
       </div>
   );
 }
