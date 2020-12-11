@@ -64,7 +64,7 @@ function Card(props) {
           </div>
           
         </dt>
-        <dd>{props.meaning}</dd>
+        <dd><q><em>{props.meaning}</em></q></dd>
       </div>
   );
 }
