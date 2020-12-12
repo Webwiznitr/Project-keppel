@@ -2,6 +2,7 @@ import React from "react";
 import content from "../content";
 import Card from "./Card";
 import Footer from "./Footer";
+import sectionHeader from "./sectionHeader";
 
 function createCard(content) {
   return (
@@ -30,6 +31,7 @@ function App() {
       <h1>
         <header>CLUBOPEDIA</header>
       </h1>
+      <sectionHeader/>
       <dl className = "dictionary">
       {content.map(createCard)}
       </dl>

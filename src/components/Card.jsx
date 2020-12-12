@@ -10,10 +10,8 @@ import BookIcon from '@material-ui/icons/Book';
 
 function Card(props) {
   return (
-    
       <div className="term">
         <dt>
-          
           <img src={props.img} className="img-box"></img>
           <span>{props.name}</span>
           <div className="social">

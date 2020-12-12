@@ -3,7 +3,7 @@ const content = [
   {
     id: 1,
     img: "https://api.time.com/wp-content/uploads/2019/08/better-smartphone-photos.jpg",
-    name: "random",
+    name: "Random",
 
     //social media icons
     facebook: "",
@@ -32,7 +32,7 @@ const content = [
     twitter:"",
     instagram:"https://aniket.live",
     youtube : "",
-    linkedin: "",
+    linkedin: "https://aniket.live",
     telegram: "",
     blog: "",
     portfolio:"",
@@ -49,14 +49,14 @@ const content = [
     name: "Random",
 
     //social media icons
-    facebook: "",
-    twitter:"",
+    facebook: "https://aniket.live",
+    twitter:"https://aniket.live",
     instagram:"https://aniket.live",
-    youtube : "",
-    linkedin: "",
-    telegram: "",
-    blog: "",
-    portfolio:"",
+    youtube : "https://aniket.live",
+    linkedin: "https://aniket.live",
+    telegram: "https://aniket.live",
+    blog: "https://aniket.live",
+    portfolio:"https://aniket.live",
 
 
     descp:
