@@ -80,12 +80,11 @@ a.portfolio{
   justify-content: space-around;
   margin: 4rem auto;
 }
-
 .dictionary > .term {
   text-align: center;
   width: 22rem;
   margin-bottom: 3rem;
-  padding: 2rem;
+  padding: 1rem;
   border-radius: 7px;
   box-shadow: 0 2px 5px #ccc;
   background-color: #fff;
@@ -175,6 +174,7 @@ dd dl .term {
 .footer-distributed .footer-icons{
 	text-align: center;
 	margin-top: 25px;
+	margin-bottom: 10px;
 }
 
 .footer-distributed .footer-icons a{
@@ -185,14 +185,12 @@ dd dl .term {
 	cursor: pointer;
 	background-color:  #33383b;
 	border-radius: 2px;
-
 	font-size: 20px;
 	color: #ffffff;
 	text-align: center;
 	line-height: 35px;
-
-	margin-right: 3px;
-	margin-bottom: 5px;
+	padding: 2px;
+	margin:4px;
 }
 
 .footer-distributed .footer-icons a:hover{
@@ -218,7 +216,6 @@ dd dl .term {
 	.footer-distributed .footer-center i{
 		margin-left: 0;
 	}
-
 }
 
 
