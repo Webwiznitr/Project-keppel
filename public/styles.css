@@ -5,21 +5,36 @@ body {
   line-height: 1.666;
   color: #555;
   background-color: #ffffff;
-background-image: url("https://www.transparenttextures.com/patterns/brick-wall.png");
+  background-image: url("https://www.transparenttextures.com/patterns/brick-wall.png");
 }
 
 header {
-  background-color: lightseagreen;
+  background-color: black;
   margin: -22px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
   color: white;
 }
 
-header h1 {
+h1 header {
   font-family: "McLaren", cursive;
   font-weight: 200;
+  font-size: 5rem;
+  text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
 }
+
+@-webkit-keyframes glow {
+	from {
+	  text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px lightseagreen, 0 0 40px lightseagreen, 0 0 50px lightseagreen, 0 0 60px lightseagreen, 0 0 70px lightseagreen;
+	}
+	
+	to {
+	  text-shadow: 0 0 20px #fff, 0 0 30px #2edbd3, 0 0 40px #2edbd3, 0 0 50px #2edbd3, 0 0 60px #2edbd3, 0 0 70px #2edbd3, 0 0 80px #2edbd3;
+	}
+  }
 
 .social-hide{
   visibility: hidden;
