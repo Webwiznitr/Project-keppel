@@ -221,7 +221,11 @@ dd dl .term {
 
 	.footer-distributed .footer-center i{
 		margin-left: 0;
-	}
+  }
+  .dictionary{
+    padding-top: 30px;
+    margin: 20px;
+  }
 }
 
 
