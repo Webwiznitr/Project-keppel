@@ -19,7 +19,7 @@ const FooterPage = () => {
 
 			</div>
 
-		</footer>
+	</footer>
   );
 }
 

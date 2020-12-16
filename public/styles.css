@@ -84,7 +84,7 @@ a.portfolio{
 
 .dictionary > .term {
   text-align: center;
-  max-width: 20rem;
+  max-width: 22rem;
   margin-bottom: 3rem;
   padding: 2rem;
   border-radius: 7px;
@@ -201,8 +201,7 @@ dd dl .term {
 	color: #000;
 }
 
-
-@media (max-width: 880px) {
+@media (max-width: 600px) {
 
 	.footer-distributed{
 		font: bold 14px sans-serif;
@@ -222,6 +221,7 @@ dd dl .term {
 	}
 
 }
+
 
 /*sectionHeader*/
 .club-sections{
