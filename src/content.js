@@ -564,27 +564,7 @@ const content = [
     pname: "P.Pritesh Kumar Patro"
     
   },
-    {
-    id:  27 ,
-    img: "https://scontent.fblr2-1.fna.fbcdn.net/v/t1.0-9/p960x960/72053496_110128567063710_903593988739563520_o.jpg?_nc_cat=110&ccb=2&_nc_sid=85a577&_nc_ohc=QpuU9PXFvV4AX-vTpMG&_nc_ht=scontent.fblr2-1.fna&tp=6&oh=cf10c4d10a1176e7d38282e4f7210c0a&oe=60028F1A",
-    name: "Odia Sahitya Samaj",
 
-    //social media icons
-    facebook: "https://www.facebook.com/ossnitr/",
-    twitter:"",
-    instagram:"https://www.instagram.com/invites/contact/?i=1porkl0gcujs9&utm_content=9vnwsmx",
-    youtube : "",
-    linkedin: "",
-    telegram: "",
-    blog: "",
-    portfolio:"",
-
-    descp:
-      "The name 'Odia Sahitya Samaj' itself represents the originality of the club. The roots of the club are embedded in the soil of Odisha which is rich in both culture andliterature. The main aim of this club is to showcase the vastness of the Odia language and literature. Our main aim is to imbibe the true essence of mothertongue ‘Odia’ among the Odia students of our campus. We want to give a platform to the Odia students to show their creativity and also to make them realize about their responsibility towards the utmost progress of their own language and literature.",
-    contact: "+919078433444",
-    pname: "P.Pritesh Kumar Patro"
-    
-  },
   {
     id:  27 ,
     img: "https://d1fdloi71mui9q.cloudfront.net/4QY3rPipSZYYcChPM6YA_hX9I4B1z1ijdXiZD",
