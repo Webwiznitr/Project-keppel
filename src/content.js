@@ -564,25 +564,46 @@ const content = [
     pname: "P.Pritesh Kumar Patro"
     
   },
-  {
+    {
     id:  27 ,
-    img: "https://instagram.fblr2-1.fna.fbcdn.net/v/t51.2885-19/s320x320/117530680_106407484511064_8219932681470173332_n.jpg?_nc_ht=instagram.fblr2-1.fna.fbcdn.net&_nc_ohc=oJ1EDiwov74AX_Ia7kO&tp=1&oh=3d895528eadcc1c178ccb235d2466d0f&oe=60071589",
-    name: "Shecoders ",
+    img: "https://scontent.fblr2-1.fna.fbcdn.net/v/t1.0-9/p960x960/72053496_110128567063710_903593988739563520_o.jpg?_nc_cat=110&ccb=2&_nc_sid=85a577&_nc_ohc=QpuU9PXFvV4AX-vTpMG&_nc_ht=scontent.fblr2-1.fna&tp=6&oh=cf10c4d10a1176e7d38282e4f7210c0a&oe=60028F1A",
+    name: "Odia Sahitya Samaj",
 
     //social media icons
-    facebook: "https://www.facebook.com/shecoders.nitr",
+    facebook: "https://www.facebook.com/ossnitr/",
     twitter:"",
-    instagram:"https://www.instagram.com/shecoders.nitr/",
-    youtube : "https://www.youtube.com/channel/UCsssffqYHH_TwEkwF5kWRYQ",
+    instagram:"https://www.instagram.com/invites/contact/?i=1porkl0gcujs9&utm_content=9vnwsmx",
+    youtube : "",
     linkedin: "",
     telegram: "",
     blog: "",
-    portfolio:"shecoders-workspace.slack.com",
+    portfolio:"",
 
     descp:
-      "SHECODERS is a group of female tech enthusiasts at NIT Rourkela. Inspired by the women developer community of Google, we are committed to bridge the gender gap in technology by encouraging the female students of NITR to participate in the coding culture. We will be providing weekly tutorials and workshops. Every beginner is warmly welcomed!",
-    contact: "+918328887210",
-    pname: "Sushree Satarupa"
+      "The name 'Odia Sahitya Samaj' itself represents the originality of the club. The roots of the club are embedded in the soil of Odisha which is rich in both culture andliterature. The main aim of this club is to showcase the vastness of the Odia language and literature. Our main aim is to imbibe the true essence of mothertongue ‘Odia’ among the Odia students of our campus. We want to give a platform to the Odia students to show their creativity and also to make them realize about their responsibility towards the utmost progress of their own language and literature.",
+    contact: "+919078433444",
+    pname: "P.Pritesh Kumar Patro"
+    
+  },
+  {
+    id:  27 ,
+    img: "https://d1fdloi71mui9q.cloudfront.net/4QY3rPipSZYYcChPM6YA_hX9I4B1z1ijdXiZD",
+    name: "Pantomime",
+
+    //social media icons
+    facebook: "https://www.facebook.com/drama.club.nitrkl",
+    twitter:"",
+    instagram:"https://instagram.com/pantomime.nitr?igshid=i90p9glamop2",
+    youtube : "https://www.youtube.com/channel/UCGbhaKvtv781JhC4l9TTNMA",
+    linkedin: "",
+    telegram: "",
+    blog: "",
+    portfolio:"https://linktr.ee/Pantomime",
+
+    descp:
+      "PANTOMIME, founded back in 2008, is the dramatics club of National Institute of Technology, Rourkela. Started by some of the dramatic enthusiast alumni of the institute, it has grown over the years to be one of the most vigorous, vital, dynamic and successful club of the institute. Mimes, stage plays, street plays (Nukkad) are some of the art forms performed by the club in various fests, functions and competitions. Recently PANTOMIME also started making short films in the lockdown and ventured into a new dimension.",
+    contact: "+919410588135",
+    pname: "Panjak Agarwal"
     
   },
   {
