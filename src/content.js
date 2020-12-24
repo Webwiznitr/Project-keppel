@@ -524,7 +524,7 @@ const content = [
   },
   {
     id:  25 ,
-    img: "https://instagram.fccu5-1.fna.fbcdn.net/v/t51.2885-19/s320x320/106511654_272383690853266_594812472614948404_n.jpg?_nc_ht=instagram.fccu5-1.fna.fbcdn.net&_nc_ohc=F8R0upcKc9sAX_S12Rk&tp=1&oh=ef4700b942ac78c9cdee5ea256081785&oe=600ECB44",
+    img: "https://instagram.fccu5-1.fna.fbcdn.net/v/t51.2885-19/s320x320/53109679_298950044131857_4180503758976843776_n.jpg?_nc_ht=instagram.fccu5-1.fna.fbcdn.net&_nc_ohc=Ckv8hEOUqOMAX_yl5Rr&tp=1&oh=55b98450214d4345521b82bab5d306b5&oe=600FE0E0",
     name: "NITR_ICS",
 
     //social media icons
