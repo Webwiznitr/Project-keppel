@@ -551,7 +551,7 @@ const content = [
     //social media icons
     facebook: "https://www.facebook.com/ossnitr/",
     twitter:"",
-    instagram:"https://www.instagram.com/invites/contact/?i=1porkl0gcujs9&utm_content=9vnwsmx",
+    instagram:"https://www.instagram.com/oss_nitr/",
     youtube : "",
     linkedin: "",
     telegram: "",
